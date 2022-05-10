@@ -160,3 +160,37 @@ CURRICULUM
 	width: 40%;
 	vertical-align: 500%;
 }
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+	color: white;
+	margin: 3%;
+}
+
+.formulario {
+	display: inline-block;
+	width: 100px;
+	vertical-align: 700%;
+}
+
+.campo {
+	background-color: whitesmoke;
+	border-radius: 22px;
+}
+
+input {
+	border-radius: 22px;
+	padding: 10%;
+	background-color: rgb(0, 171, 201);
+}
+
+
+.descarga {
+	border-radius: 22px;
+	padding: 10%;
+	background-color: rgb(0, 171, 201);
+}
