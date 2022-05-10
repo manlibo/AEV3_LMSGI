@@ -140,3 +140,23 @@ iframe {
 	
 }
 
+/* ===========================================================================
+CURRICULUM
+============================================================================== */
+
+.curriculum {
+	display: inline-block;
+	width: 40%;
+}
+
+.datos_contacto {
+	display: inline-block;
+	width: 99%;
+	vertical-align: 700%;
+}
+
+.formacion {
+	display: inline-block;
+	width: 40%;
+	vertical-align: 500%;
+}
